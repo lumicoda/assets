@@ -79,8 +79,8 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-color.svg">
-        <img alt="color logo" src="./logo/logo-lumicoda-color.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda.svg">
+        <img alt="color logo" src="./logo/logo-lumicoda.svg" height="100">
       </a>
       <div>Color</div>
     </td>
@@ -89,6 +89,12 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
         <img alt="white logo" src="./logo/logo-lumicoda-white.svg" height="100" style="background:#0d1821;">
       </a>
       <div>White</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-black.svg">
+        <img alt="black logo" src="./logo/logo-lumicoda-black.svg" height="100" style="background:#0d1821;">
+      </a>
+      <div>Black</div>
     </td>
   </tr>
   </table>
@@ -107,22 +113,10 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
       <div>Square grey</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-blue.svg">
-        <img alt="square blue logo" src="./logo/logo-lumicoda-square-blue.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-white.svg">
+        <img alt="square white logo" src="./logo/logo-lumicoda-square-white.svg" height="100">
       </a>
       <div>Square blue</div>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-yellow.svg">
-        <img alt="square yellowlogo" src="./logo/logo-lumicoda-square-yellow.svg" height="100">
-      </a>
-      <div>Square yellow</div>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-red.svg">
-        <img alt="square red logo" src="./logo/logo-lumicoda-square-red.svg" height="100">
-      </a>
-      <div>Square red</div>
     </td>
   </tr>
 </table>
@@ -148,29 +142,13 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 <table>
   <tr>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ebebeb/ffffff.png&text=+">
-      <div><code>#ebebeb</code></div>
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/002C73/ffffff.png&text=+">
+      <div><code>#002C73</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ff4f73/ffffff.png&text=+">
-      <div><code>#ff4f73</code></div>
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/FFD166/ffffff.png&text=+">
+      <div><code>#FFD166</code></div>
     </td>
-    <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ffd009/ffffff.png&text=+">
-      <div><code>#ffd009</code></div>
-    </td>
-    <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/1274ed/ffffff.png&text=+">
-      <div><code>#1274ed</code></div>
-  </td>
-    <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/002c73/ffffff.png&text=+">
-      <div><code>#002c73</code></div>
-  </td>
-    <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/0d1821/ffffff.png&text=+">
-      <div><code>#0d1821</code></div>
-  </td>
   </tr>
 </table>
 
