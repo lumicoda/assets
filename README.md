@@ -80,19 +80,19 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
   <tr>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda.svg">
-        <img alt="color logo" src="./logo/logo-lumicoda.svg" height="100">
+        <img alt="color logo" src="./logo/logo-lumicoda.svg" width="100">
       </a>
       <div>Color</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-white.svg">
-        <img alt="white logo" src="./logo/logo-lumicoda-white.svg" height="100" style="background:#0d1821;">
+        <img alt="white logo" src="./logo/logo-lumicoda-white.svg" width="100" style="background:#0d1821;">
       </a>
       <div>White</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-black.svg">
-        <img alt="black logo" src="./logo/logo-lumicoda-black.svg" height="100" style="background:#0d1821;">
+        <img alt="black logo" src="./logo/logo-lumicoda-black.svg" width="100" style="background:#0d1821;">
       </a>
       <div>Black</div>
     </td>
@@ -108,7 +108,7 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-grey.svg">
-        <img alt="square logo" src="./logo/logo-lumicoda-square-grey.svg" height="100">
+        <img alt="square gray logo" src="./logo/logo-lumicoda-square-grey.svg" height="100">
       </a>
       <div>Square grey</div>
     </td>
@@ -116,7 +116,7 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-white.svg">
         <img alt="square white logo" src="./logo/logo-lumicoda-square-white.svg" height="100">
       </a>
-      <div>Square blue</div>
+      <div>Square White</div>
     </td>
   </tr>
 </table>
