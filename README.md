@@ -57,22 +57,22 @@ We store our static assets in this repository, GitHub Pages publishes it and jsD
 * **Github Pages**: https://lumicoda.github.io/assets
 * **jsDelivr CDN**: https://cdn.jsdelivr.net/gh/lumicoda/assets/
 * **jsDelivr package**: https://www.jsdelivr.com/package/gh/lumicoda/assets
-* **Statically CDN**: https://cdn.statically.io/gh/lumicoda/assets/master/logo/logo-lumicoda-color.svg
+* **Statically CDN**: https://cdn.statically.io/gh/lumicoda/assets/master/logo/logo-lumicoda.svg
 
 ### Usage
 
 For example, our logo is available at :
 
-* https://lumicoda.github.io/assets/logo/logo-lumicoda-color.svg
-* https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-color.svg
+* https://lumicoda.github.io/assets/logo/logo-lumicoda.svg
+* https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda.svg
 
 With jsDelivr CDN, you can choose a specific release or a specific git commit hash:
 
-* https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-color.svg
-* https://cdn.jsdelivr.net/gh/lumicoda/assets@b96d07edc4c0debe1fe38da344137accf6a55dba/logo/logo-lumicoda-color.svg
+* https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda.svg
+* https://cdn.jsdelivr.net/gh/lumicoda/assets@b96d07edc4c0debe1fe38da344137accf6a55dba/logo/logo-lumicoda.svg
 
 With Statically CDN, you can choose a specific branch, tag or git commit hash:
-* https://cdn.statically.io/gh/lumicoda/assets/master/logo/logo-lumicoda-color.svg
+* https://cdn.statically.io/gh/lumicoda/assets/master/logo/logo-lumicoda.svg
 
 ### Logo
 
