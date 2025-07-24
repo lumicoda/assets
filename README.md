@@ -102,19 +102,19 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
   <tr>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square.svg">
-        <img alt="square logo" src="./logo/logo-lumicoda-square.svg" height="100">
+        <img alt="square logo" src="./logo/logo-lumicoda-square.svg" width="100">
       </a>
       <div>Square</div>
     </td>
     <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-grey.svg">
-        <img alt="square gray logo" src="./logo/logo-lumicoda-square-grey.svg" height="100">
+      <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-gray.svg">
+        <img alt="square gray logo" src="./logo/logo-lumicoda-square-gray.svg" width="100">
       </a>
       <div>Square grey</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumicoda/assets@latest/logo/logo-lumicoda-square-white.svg">
-        <img alt="square white logo" src="./logo/logo-lumicoda-square-white.svg" height="100">
+        <img alt="square white logo" src="./logo/logo-lumicoda-square-white.svg" width="100">
       </a>
       <div>Square White</div>
     </td>
